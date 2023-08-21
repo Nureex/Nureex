@@ -1,16 +1,33 @@
-### Hi there 👋
+# Nura Aliyu Sulaiman
+📱 09032366060 | 📧 nureexamahmud@gmail.com | 📍 Kano, Nigeria | 🎂 1996
 
-<!--
-**Nureex/Nureex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Unleashing Innovation Through Technology 🚀
 
-Here are some ideas to get you started:
+Dedicated and dynamic Engineer with a mastery of electrical engineering and tech leadership. As the Chief Technology Officer at NUABS GLOBAL LINKS LTD, I pioneer tech strategies, manage projects, and forge synergistic solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+#### Chief Technology Officer
+**NUABS GLOBAL LINKS LTD**, Kano, Kumbotso LGA, Nigeria
+28/12/2022 - Present
+- Orchestrating visionary tech strategies to fuel business growth.
+- Driving seamless project execution and collaboration across teams.
+- Crafting cutting-edge solutions that redefine tech's role in business.
+
+<!-- Continue with other sections -->
+
+## Skills Snapshot 🛠️
+- Graphics Design 🎨
+- Communication 🗣️
+- Python 🐍
+- JavaScript 💡
+- Linux 🐧
+- Bash 🛠️
+- C 🖥️
+- Solidity 💎
+
+## Certified for Excellence 🏆
+- IBM Cybersecurity Tools and Cyber Attacks (Coursera)
+- Industrial IoT on Google Cloud Platform (Coursera)
+- Technical Support Fundamentals (Coursera)
+- Professional Diploma Certificate
+- Higher Professional Diploma Certificate

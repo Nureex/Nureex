@@ -1,5 +1,5 @@
 # Nura Aliyu Sulaiman
-📱 08163024394 | 📧 nureexamahmud@gmail.com | 📍 Kano, Nigeria 
+📱 +23492924223 | 📧 nureexamahmud@gmail.com | 📍 Kano, Nigeria 
 
 ## Unleashing Innovation Through Technology 🚀
 
